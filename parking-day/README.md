@@ -4,7 +4,7 @@ for one day, people take back parking spaces to make them public spaces
 
 We put up a table to talk about Art + Technology, and to talk about  <a href="https://www.meetup.com/San-Diego-Code-Kitchen/">Code Kitchen</a>.
 
-![](https://github.com/sjono/blossom/raw/master/img/1214_blossom_installed.png)
+![](gesture-writer/parking-day/0921_parking_day.png)  
 
 A video is online here:
 
