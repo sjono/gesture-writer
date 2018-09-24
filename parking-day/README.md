@@ -11,7 +11,7 @@ We put up a table to talk about Art + Technology, and to talk about  <a href="ht
 The robotic arm had two stepper motors driven by separate microcontrollers (Teensy LC).
 The code includes simpler stepper command functions to ensure quick reliable communication:
 
-* <a href="https://github.com/sjono/gesture-writer/blob/master/parking-day/robotic-arm-joystick.cpp">Robotic-arm-joystick.cpp</a>
+* <a href="https://github.com/sjono/gesture-writer/blob/master/parking-day/robotic-arm-joystick.cpp">Robotic-arm-joystick.cpp</a> (*this is code written by Colin and myself*)
 * <a href="https://www.pjrc.com/store/teensylc.html">Teensy LC</a>
 * <a href="https://www.sparkfun.com/products/13656">Stepper Motor - 125 oz.in</a> (sparkfun)
 * <a href="https://www.osepp.com/electronic-modules/breakout-boards/92-osepp-motor-driver-module">Osepp H-bridge</a> (motor driver board)
