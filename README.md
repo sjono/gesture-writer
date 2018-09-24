@@ -2,6 +2,7 @@
 
 An interactive piece to draw in response to people's gestures
 Designed & built for Maker Faire San Diego, 2018
+
 Current status: *in process*
 
 ## <a href="https://github.com/sjono/gesture-writer/tree/master/parking-day">Park(ing) Day 2018</a>, San Diego
