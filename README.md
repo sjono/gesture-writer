@@ -4,10 +4,10 @@ An interactive piece to draw in response to people's gestures
 Designed & built for Maker Faire San Diego, 2018
 Current status: *in process*
 
-## Park(ing) Day 2018, San Diego
+## <a href="https://github.com/sjono/gesture-writer/tree/master/parking-day">Park(ing) Day 2018</a>, San Diego
 A work-in-progress for this piece was shown at a parklet for Park(ing) Day, on Sep 21st 2018 in Normal Heights
 
-![](https://github.com/sjono/gesture-writer/raw/master/img/0921_parking_day.png)
+More info in the subfolder - <a href="https://github.com/sjono/gesture-writer/tree/master/parking-day">Parking-Day</a>
 
 We put up a table to talk about Art + Technology, and to talk about  <a href="https://www.meetup.com/San-Diego-Code-Kitchen/">Code Kitchen</a>.
 
